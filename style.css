@@ -6,3 +6,35 @@
   font-weight:normal;
   font-style: normal;
 }
+
+/* nav-section */
+
+.nav-section{display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding:20px;}
+  .nav-button:hover{
+    background-color: #3A36FF;
+  }
+  .nav-button:hover{
+    color: white;
+    background-color:black;
+    transition: .4s;
+   
+  }
+  .nav-button{
+    background-color:#4E47FF;
+    color: white;
+    padding: 8px 24px;
+    border-radius: 10px;
+    border: none;
+    font-size:14px;
+    cursor: pointer;
+  }
+
+  .nav-tital{
+    color: #4E47FF;
+    font-size:30px;
+    font-weight:900;
+    font-family: "Raleway", sans-serif;
+  }
