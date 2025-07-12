@@ -107,7 +107,7 @@
  .productive-section{
     width:400px;
     height:200px;
-    padding:30px 40px;
+    padding:35px 10px;
     align-items: center;
     background-color:rgba(131, 71, 255, 0.3);
     border-radius: 20px; 
@@ -119,7 +119,7 @@
 .productive-tital{
     color: #252432;
     font-weight: bold;
-    font-size:20px;
+    font-size:16px;
 }
 .product-icon{
     color:#4E47FF;
@@ -161,3 +161,32 @@
     gap:12px;
 }
 
+
+/* focus section */
+
+.focus-tital{
+    font-size: 40px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.focus-image{
+    max-width:800px;
+    margin: 0px auto;
+}
+.focus-image img{
+    border-radius: 25px;
+    margin-top: 17px;
+   
+   
+}
+.focus-section{
+    width:980px;
+    height:600px;
+    text-align: center;
+    padding:20px 24px;
+    background-color: #F2EEED;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 65px;
+}
