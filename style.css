@@ -80,10 +80,13 @@
 .Action-contant{
     max-width:50%;
    
+    
+   
 
 }
 .Action-image{
     max-width:50%;
+
 
     
 }
@@ -203,11 +206,12 @@
 }
 .footer{
     max-width:980px;
-    height:440px;
+    height:400px;
     background-color:rgba(120, 104, 246, 0.4);
     margin: 0 auto;
     padding:40px;
     margin-top: 30px;
+    border-radius: 10px;
 }
 .footer-colum{
     width:50%;
@@ -239,5 +243,5 @@
 .button:hover{
     background-color:#252432;
     color:white;
-    transition: .5s;
+    transition: .6s;
 }
