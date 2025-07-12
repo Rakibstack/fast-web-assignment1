@@ -245,3 +245,34 @@
     color:white;
     transition: .6s;
 }
+
+
+/* footer section */
+
+.footer-bottom{
+    width: 1080px;
+    height:300px;
+    text-align: center;
+   
+}
+.footer-list{
+    display: flex;
+   margin-left: 80px;
+    
+}
+.footer-logo{
+    color: #3A36FF;
+    font-size: 35px;
+    font-weight: bold;
+}
+.footer-list li{
+    list-style: none;
+    margin: 0 20px;
+    color: #000000;
+    font-size: 16px;
+    
+   
+}
+.footer-contant{
+    padding: 100px 220px;
+}
